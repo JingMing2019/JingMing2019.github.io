@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
+Jing Ming is a third-year Master of Engineering student at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), major in **Information and Signal Processing**, superviesed by Prof. Xiaoling Zhang.
+My research focus is high-resolution synthetic aperture radar imaging and interferometric processing. Specifically, i'm working on [TerraSAR-X image data](https://earth.esa.int/web/eoportal/satellite-missions/t/terrasar-x) processing on MATLAB, expecting to reconstruct the high-quality digital elevation model of urban areas.
+I received my bachelor of engineering degree at University of Electronic Science and Technology of China, supervised by Eng. Bo Chen. My undergraduate thesis *Back-projection Imaging Algorithm and Motion Error Compensation* received **Excellent Undergraduation Dissertation** at School of Electronic Engineering, UESTC.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
