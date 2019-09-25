@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jing Ming / Academic Pages"
+title                    : "Jing Ming / My Academic Pages"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://jingming2019.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JingMing2019/JingMing2019.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jing Ming"
-  avatar           : "profile.png"
-  bio              : "University of Electronic Science and Technology of China, School of Information and Communication"
-  location         : "No. 2006 Ave, West Hi-Tach Zone, 611731, Chengdu, Sichuan, China "
+  avatar           : "JUN_5946_cut.png"
+  bio              : "School of Information and Communication \n\n UESTC"
+  location         : "Chengdu City, P. R. China"
   employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            :
+  pubmed           :
+  googlescholar    :
+  email            : "mailto: mary.j.ming@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Jing_Ming2"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/JingMing2019"
+  github           : "JingMing2019"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "jing-ming-11818a82"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
