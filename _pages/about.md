@@ -24,7 +24,8 @@ Research Highlights
 Curriculum Vitae
 ======
 [CV](https://jingming2019.github.io/CurriculumVitae)
-[Download paper here](https://github.com/JingMing2019/CurriculumVitae/raw/master/cv_JingMing_1025.pdf)
+
+[Download CV here](https://github.com/JingMing2019/CurriculumVitae/raw/master/cv_JingMing_1025.pdf)
 
 
 Contact
