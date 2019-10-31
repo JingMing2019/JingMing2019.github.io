@@ -3,11 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
-    url: /pages/
+  - title: "Researches"
+    url: /researches/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Guide"
-    url: /markdown/

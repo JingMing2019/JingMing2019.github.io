@@ -11,49 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* M.S. in Signal and Information Processing, University of Electronic Science and Technology of China，2020 （expected)
+* B.S. in Electronic Information Engineering, University of Electronic Science and Technology of China, 2017
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Researches
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.researches %}
+    {% include archive-single-researches-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+Skills
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Programming
+  * MATLAB, C/C++, VHDL, HTML, LaTeX
+* Software
+  * ENVI, SARscape, Multisim, ModelSim, Quartus II, PROTEL, SketchUp, EndNote, PhotoShop
+* Standardized Tests
+  * TOEFL 100 (Reading: 27, Listening: 28, Speaking 23, Writing: 22)
+  * GRE 314 (Quantitative: 168, Verbal: 146, Analytical Writing: )
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Graduate assistant, Leadership Education Research Institute of UESTC, Sep. 2017 - Jun. 2018
+* Vice leader, Psychological Station of EE department in UESTC, Sep. 2014 - Jun. 2015
+
+Volunteer Work
+======
+* Volunteer, 2017 China University Students Leadership Education Development Forum, Dec. 2017
+* Volunteer, University of Electronic Science and Technology of China's 60th anniversary, Sep. 2016
