@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in synthetic aperture radar imaging and interferometric processing .
+I am interested in synthetic aperture radar imaging and interferometric processing.
 
 Bio
 ======
-Jing Ming is a final-year Master of Engineering candidate at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), majoring in Information and Signal Processing, superviesed by Prof. Xiaoling Zhang.
+Jing Ming is a final-year Master of Engineering candidate at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC), majoring in Information and Signal Processing, superviesed by Prof. Xiaoling Zhang.
 
 My research focus is high-resolution synthetic aperture radar imaging and interferometric processing. Specifically, I'm working on [TerraSAR-X image data](https://earth.esa.int/web/eoportal/satellite-missions/t/terrasar-x) processing on MATLAB, expecting to reconstruct the high-quality digital elevation model of urban areas.
 
@@ -20,6 +20,7 @@ I received my bachelor of engineering degree at University of Electronic Science
 
 Research Highlights
 ======
+
 
 Curriculum Vitae
 ======

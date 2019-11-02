@@ -40,11 +40,11 @@
     {% endif %}
 
     {% if post.program %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.program }}, Supervised by {{ post.mentor}}</p>
+    <p><i>{{ post.program }}.</i> <i>Supervised by {{ post.mentor}}</i></p>
     {% endif %}
 
     {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+      <p class="archive__item-excerpt" itemprop="description" align="justify">{{ post.excerpt | markdownify }}</p>
     {% endif %}
 
   </article>

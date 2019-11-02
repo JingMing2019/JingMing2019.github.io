@@ -36,7 +36,9 @@
     {% if post.datestart %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.datestart | date: '%B, %Y' }} - {{ post.dateend | date: '%B, %Y' }}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{post.type}} at {{ post.venue }},  {{post.location}}</p>{% endif %}
+    {% if post.program %}
+      <p class="archive__item-excerpt" itemprop="description"><i>{{ post.program }}. Supervised by {{ post.mentor}}</i></p>
+    {% endif %}
     </li>
   </article>
 </div>
