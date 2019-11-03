@@ -19,6 +19,7 @@ System Design Scheme
 ===
 * Cosidering the existing [triangle centroid positioning algorithm](/images/rsrch-2016-06-30-1.png) making use of _three intersections_ to figure out the position of one anchor, we managed to involve four to add more information and put forward the corresponding [quadrilateral diagonal intersection positioning algorithm](/images/rsrch-2016-06-30-2.png).
 * Applied the distance of each intersection as the weighted coefficient to increase the effect of nearer intersection on the final calculation.
+
 ![distance weighted prepocessing](/images/rsrch-2016-06-30-3.png)
 * Simulated the whole design on the Matlab platform.
 
