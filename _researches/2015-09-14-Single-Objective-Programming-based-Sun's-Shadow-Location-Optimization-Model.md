@@ -17,8 +17,15 @@ It was a mathematical modelling problem issued by the committee of the Mathemati
 
 Main Task
 ======
-Our work was to find the pattern to build the mathematical relationship between the shadow's length and the several parameters, including longitutde, latitude, substance's height and the shooting date. To archive it, a dozen of shadow related data is provided to figure out the shadow length model. After this, we were required to determine the shooting location of a video which recorded the changes of a ![pole's shadow](/images/rsrch-2015-09-14-1).
+Our work was to find the pattern to build the mathematical relationship between the shadow's length and the several parameters, including longitutde, latitude, substance's height and the shooting date. To achieve it, a dozen of shadow related data is provided to figure out this shadow length to position and date model. In the end, we were required to determine the shooting location of a video which recorded the changes of a _pole's shadow_.
+
+![pole's shadow](/images/rsrch-2015-09-14-1.jpg)
+_one frame of the video_
 
 My Duty
 ======
-In this team work, my work was to establish the model and the difficulty lay in the model assumption made and the parameters chosen which abandoned trivial factors and remained the vital importance. Meanwhile, the knowledge of geography took a significant role in this task, peculiarly the various solar angles. What's more, the forth question which is about determining the shooting location of the video using the model built in the former question required us to recognize the changing length of the pole's shadow in the picture. Considering the transformation of the pole in a 2-dimensional video, the software SketchUp was applied to conduct the [3-dimensional modeling of the pole](http://jingming2019.github.io/images/Sun's-Shadow-Model.PNG) to extract the precise length.
+In this team work, my work was to establish the model and the difficulty lay in the model assumption made and the parameters chosen which abandoned trivial factors and remained the vital importance. Meanwhile, the knowledge of geography took a significant role in this task, peculiarly the various solar angles. What's more, the forth question which is about determining the shooting location of the video using the model built in the former question required us to recognize the changing length of the pole's shadow in the picture. Considering the transformation of the pole in a 2-dimensional video, the software SketchUp was applied to conduct the _3-dimensional modelling of the pole_ to extract the precise length.
+
+![3-dimensional modeling of the pole](/images/rsrch-2015-09-14-2.PNG)
+![3-dimensional modeling of the pole](/images/rsrch-2015-09-14-3.PNG)
+_the SketchUp 3D modelling_
