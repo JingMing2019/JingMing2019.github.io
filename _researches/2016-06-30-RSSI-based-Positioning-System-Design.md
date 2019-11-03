@@ -23,3 +23,7 @@ System Design Scheme
 ![distance weighted prepocessing](/images/rsrch-2016-06-30-3.png)
 * Simulated the whole design on the Matlab platform.
 
+Test Results
+===
+The average error of quadrilateral diagonal algorithm is 0.3733, while it is 0.4957 for the triangle centroid algoeithm. Therefor, the positional precision is improved by 20%.
+
