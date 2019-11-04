@@ -33,19 +33,19 @@ The trajectory estimation has a great impact on the focusing of both range direc
 
 Autofocus Algorithm
 ===
-Autofocus algorithm compensate the motion error based on the radar echo signals which works on the signal processing layer rather than make effort to acquire the high-accurate trajectory data with high-quality motion sensors. At first, the existing auofocus algorithm based on maximum image intensity is simulated and the imaging result is not as much as expected.
+Autofocus algorithm compensates the motion error based on the radar echo signals which works on the signal processing layer, rather than make any effort to acquire the high-accurate trajectory data with high-quality motion sensors. At first, the existing autofocus algorithm based on maximum image intensity is simulated, and the imaging result is not as much as expected.
 
 * _imaging results of existing autofocus algorithm based on maximum image intensity_
 
 ![imaging results of autofocus algorithm based on based on maximum image intensity](/images/rsrch-2017-06-30-5.png)
 
-To improve the imaging results, the thesis proposes an **autofocus algorithm based on maximum image contrast** to figure out the phase error. The thoery behind is the positive relationship between the SAR images focusing level and its image contrast. The problem of focusing can be converted to the [determination of maximum contrast.](/images/rsrch-2017-06-30-6.png)
+To improve the imaging results, the thesis proposes an **autofocus algorithm based on maximum image contrast** to figure out the phase error. The theory behind is the positive relationship between the SAR images focusing level and its image contrast. The problem of focusing can be converted to the [determination of maximum contrast.](/images/rsrch-2017-06-30-6.png)
 
 * _phase error compensation of autofocus algorithm based on maximum image contrast_
 
 ![phase error compensation of autofocus algorithm based on maximum image contrast](/images/rsrch-2017-06-30-7.png)
 
-In order to acquire the high-quality focusing SAR 2D imaging results, the work combines the two autofocus algorithm which applies image intensity to estimate the proper antenna phase center and introduces image constrast to improve the image quality.
+To acquire the high-quality focusing SAR 2D imaging results, the work combines the two autofocus algorithm which applies image intensity to estimate the proper antenna phase centre and introduces image contrast to improve the image quality.
 
 * _imaging results of combined autofocus algorithm_
 
