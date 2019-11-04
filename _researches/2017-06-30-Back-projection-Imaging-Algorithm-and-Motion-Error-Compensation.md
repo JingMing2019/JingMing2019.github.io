@@ -16,9 +16,11 @@ Back-projection (BP) Imaging Algorithm
 BP algorithm is a typical time-domain synthetic aperture radar (SAR) imaging method which conducts coherent superposition in the azimuth direction after the range compression. Theoretically, it ignores any approximation, leading to high-quality imaging results. However, the huge computational complexity exists in the value calculation of every pixel one by one in the processing. To improve the execution time, I take advantage of _Matrix Operation_ in MATLAB to use 2D matrix to perform the BP processing instead of reconstructing 2D image point by point. Undergo this change, the time can be cut down by 10%.
 
 * _BP 2D imaging formula_
+
 ![BP 2D imaging formula](/images/rsrch-2017-06-30-1.png)
 
 * _BP imaging simulation result_
+
 ![BP imaging simulation result](/images/rsrch-2017-06-30-2.png)
 
 Motion Error Compensation
