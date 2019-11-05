@@ -39,7 +39,7 @@ Autofocus algorithm compensates the motion error based on the radar echo signals
 
 ![imaging results of autofocus algorithm based on based on maximum image intensity](/images/rsrch-2017-06-30-5.png)
 
-To improve the imaging results, the thesis proposes an **autofocus algorithm based on maximum image contrast** to figure out the phase error. The theory behind is the positive relationship between the SAR images focusing level and its image contrast. The problem of focusing can be converted to the [determination of maximum contrast.](/images/rsrch-2017-06-30-6.png)
+To improve the imaging results, the thesis proposes an **autofocus algorithm based on maximum image contrast** to figure out the phase error for BP SAR imaging. The theory behind is the positive relationship between the SAR images focusing level and its image contrast. The problem of focusing can be converted to the [determination of maximum contrast.](/images/rsrch-2017-06-30-6.png)
 
 * _phase error compensation of autofocus algorithm based on maximum image contrast_
 
