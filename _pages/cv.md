@@ -32,7 +32,7 @@ Researches
 Skills
 ======
 * Programming
-  * MATLAB, C/C++, VHDL, HTML, LaTeX
+  * MATLAB, C/C++, VHDL, HTML, Markdown, LaTeX
 * Software
   * ENVI, SARscape, Multisim, ModelSim, Quartus II, PROTEL, SketchUp, EndNote, PhotoShop
 * Standardized Tests
