@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently interested in synthetic aperture radar imaging and interferometric processing.
+I am currently interested in signal and image processing. Specificly, I possess the experience of synthetic aperture radar imaging and interferometric processing.
 
 Bio
 ======
@@ -20,8 +20,21 @@ I received my Bachelor of Engineering degree at UESTC. My undergraduate thesis [
 
 Research Highlights
 ======
+![DEM of airport](/images/about-1.png "DEM of Barcelona International Airport "){: .align-left}
 
+[Spaceborne Multi-baseline Interferometric SAR Technology](/research/2019-10-26-Spaceborne-Multi-baseline-Interferometric-SAR-Technology)
 
+This work performes the single and multi-baseline interferometric processing on TerraSAR-X Image Data and achieves 1m resolution Digital Elevation Model of Barcelona international airport.
+
+  
+  
+![CASAR Model](/images/about-2.png "CASAR Model"){: .align-left}
+[Circular Array 3D SAR System Simulation and Ground Test Experiment](/research/2019-01-31-Circular-Array-3D-SAR-System-Simulation-and-Ground-Test-Experiment)
+
+A new circular array 3D SAR system is presented with Point Spread Function derivation and ground test results which demonstrates its high-resolution imaging ability and effective side-lobe suppression capability.
+
+  
+  
 Curriculum Vitae
 ======
 [CV](https://jingming2019.github.io/CurriculumVitae)

@@ -17,7 +17,7 @@ BP algorithm is a typical time-domain synthetic aperture radar (SAR) imaging met
 
 * _BP 2D imaging formula_
 
-![BP 2D imaging formula](/images/rsrch-2017-06-30-1.png)
+![BP 2D imaging formula](/images/rsrch-2017-06-30-1.png){: .align-center}
 
 * [_BP imaging simulation result_](/images/rsrch-2017-06-30-2.png)
 
@@ -27,7 +27,7 @@ The trajectory estimation has a great impact on the focusing of both range direc
 
 * _phase error occurred in imaging results_
 
-![phase error occurred in imaging results](/images/rsrch-2017-06-30-3.png)
+![phase error occurred in imaging results](/images/rsrch-2017-06-30-3.png){: .align-center}
 
 * [_BP imaging simulation result with phase error_](/images/rsrch-2017-06-30-4.png)
 
@@ -37,16 +37,16 @@ Autofocus algorithm compensates the motion error based on the radar echo signals
 
 * _imaging results of existing autofocus algorithm based on maximum image intensity_
 
-![imaging results of autofocus algorithm based on based on maximum image intensity](/images/rsrch-2017-06-30-5.png)
+![imaging results of autofocus algorithm based on based on maximum image intensity](/images/rsrch-2017-06-30-5.png){: .align-center}
 
 To improve the imaging results, the thesis proposes an **autofocus algorithm based on maximum image contrast** to figure out the phase error for BP SAR imaging. The theory behind is the positive relationship between the SAR images focusing level and its image contrast. The problem of focusing can be converted to the [determination of maximum contrast.](/images/rsrch-2017-06-30-6.png)
 
 * _phase error compensation of autofocus algorithm based on maximum image contrast_
 
-![phase error compensation of autofocus algorithm based on maximum image contrast](/images/rsrch-2017-06-30-7.png)
+![phase error compensation of autofocus algorithm based on maximum image contrast](/images/rsrch-2017-06-30-7.png){: .align-center}
 
 To acquire the high-quality focusing SAR 2D imaging results, the work combines the two autofocus algorithm which applies image intensity to estimate the proper antenna phase centre and introduces image contrast to improve the image quality.
 
 * _imaging results of combined autofocus algorithm_
 
-![imaging results of autofocus algorithm based on maximum image contrast](/images/rsrch-2017-06-30-8.png)
+![imaging results of autofocus algorithm based on maximum image contrast](/images/rsrch-2017-06-30-8.png){: .align-center}
