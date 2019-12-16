@@ -1,0 +1,17 @@
+---
+title: "A Fast Sparse Recovery Algorithm via Resolution Approximation for LASAR 3D imaging"
+collection: publications
+permalink: /publication/2019-12-12-A-Fast-Sparse-Recovery-Algorithm-via-Resolution-Approximation-for-LASAR-3D-imaging
+excerpt: 'This work proposes a FSRARA compressed sensing algorithm to acquire high-quality LASAR 3D imaging results with low computational efficiency. Several schemes are applied to reduce the dimension of matrix operation and improve side-lobe compression ability. '
+date: 2019-12-12
+venue: 'IEEE Access'
+paperurl: 'http://jingming2019.github.io/files/A-Fast-Sparse-Recovery-Algorithm-via-Resolution-Approximation-for-LASAR-3D-imaging.pdf'
+citation: 'B. Tian, X. Zhang, S. Wei, Jing Ming, et al. &quot;A Fast Sparse Recovery Algorithm via Resolution Approximation for
+LASAR 3D imaging.&quot; in <i>IEEE Access.</i>i> doi: 10.1109/ACCESS.2019.2959128'
+---
+Abstract: Compressed sensing (CS) algorithms are used for linear array synthetic aperture radar (LASAR) three-dimensional (3D) imaging. However, it is difficult to obtain imaging results with both high computational efficiency and promising imaging quality. Because of the high-dimensional matrix-operations, the computational complexity of several CS algorithms is huge such as the iterative adaptive approach (IAA), bayesian compressed sensing (BCS), and sparsity bayesian recovery via iterative minimum (SBRIM) algorithm. Besides, the greedy pursuit algorithms such as the orthogonal matching pursuit (OMP) algorithm cannot acquire ideal imaging results on account of the preset sparsity of the imaging scene. To solve the problem, we present a fast sparse recovery algorithm via resolution approximation (FSRARA) in this paper. Firstly, the whole imaging scene is divided into 3D scattering units with large spacing, and SBRIM algorithm is used to obtain its low-resolution imaging results quickly. Secondly, the low-resolution imaging results are conducted image segmentation by the fuzzy c-means (FCM) clustering algorithm to extract the possible targets’ areas coarsely. Then we re-divide the imaging scene by higher imaging resolution and extract the possible targets’ areas according to the coarsely possible targets’ areas. FSRARA achieves improved computational efficiency with low-dimensional matrix-operations on the possible targets’ areas instead of the high-dimensional one on the whole imaging scene. Meanwhile, FSRARA performs better in suppressing the false targets and sidelobe interference and improves the imaging quality than the SBRIM algorithm. Simulation and experimental results prove that FSRARA improves the computational efficiency by hundreds of times at most than SBRIM algorithm and its computational efficiency is higher than smoothed L0 norm (SL0), IAA, and BCS algorithm. Besides, FSRARA improves the imaging quality compared with OMP, IAA, SL0, BCS, and SBRIM algorithms.
+
+[Download paper here](http://jingming2019.github.io/files/A-Fast-Sparse-Recovery-Algorithm-via-Resolution-Approximation-for-LASAR-3D-imaging.pdf)
+
+Recommended citation: B. Tian, X. Zhang, S. Wei, Jing Ming, et al. &quot;A Fast Sparse Recovery Algorithm via Resolution Approximation for
+LASAR 3D imaging.&quot; in <i>IEEE Access.</i>i> doi: 10.1109/ACCESS.2019.2959128

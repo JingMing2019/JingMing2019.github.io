@@ -43,8 +43,8 @@ Honors & Awards
 ======
 * Academic Scholarship for Graduate Students, Second-class, UESTC, 2019
 * Academic Scholarship for Graduate Students, Third-class, UESTC, 2018
-* Freshmen Scholarship for Graduate Students, Fisrt-class, UESTC, 2017
-* Excellent Undergraduation Dissertation (Top 5%), School of Electronic Engineering, UESTC, 2017
+* Freshmen Scholarship for Graduate Students, First-class, UESTC, 2017
+* Excellent Undergraduate Dissertation (Top 5%), School of Electronic Engineering, UESTC, 2017
 * People's Scholarship for Undergraduate Students, Third-class, UESTC, 2016
 * Mathematical Contest in Modeling of China, Second Prize of Sichuan (Top 8%), CSIAM, 2015
 * People's Scholarship for Undergraduate Students, First-class (Top 6%), UESTC, 2015
