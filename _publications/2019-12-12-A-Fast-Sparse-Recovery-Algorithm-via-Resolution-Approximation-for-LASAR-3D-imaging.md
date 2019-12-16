@@ -2,7 +2,7 @@
 title: "A Fast Sparse Recovery Algorithm via Resolution Approximation for LASAR 3D imaging"
 collection: publications
 permalink: /publication/2019-12-12-A-Fast-Sparse-Recovery-Algorithm-via-Resolution-Approximation-for-LASAR-3D-imaging
-excerpt: 'This work proposes a FSRARA compressed sensing algorithm to acquire high-quality LASAR 3D imaging results with low computational efficiency. Several schemes are applied to reduce the dimension of matrix operation and improve side-lobe compression ability. '
+excerpt: 'This work proposes a FSRARA compressed sensing algorithm to acquire high-quality LASAR 3D imaging results with high computational efficiency. Several schemes are applied to reduce the dimension of matrix operation and improve side-lobe compression ability. '
 date: 2019-12-12
 venue: 'IEEE Access'
 paperurl: 'http://jingming2019.github.io/files/A-Fast-Sparse-Recovery-Algorithm-via-Resolution-Approximation-for-LASAR-3D-imaging.pdf'
